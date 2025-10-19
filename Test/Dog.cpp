@@ -15,5 +15,4 @@ Dog::Dog() {
 Dog::~Dog() {
 	// TODO Auto-generated destructor stub
 }//asdsadsadsad
-//ываыва
-//ываываыва
+
